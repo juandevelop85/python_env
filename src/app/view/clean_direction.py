@@ -11,7 +11,7 @@ def FindLatLonByDirtext(id_file):
 
     script_path = os.path.dirname(os.path.realpath(__file__))
 
-    KEY = 'AIzaSyBnvTEYfjQ8IA59AW_wZ26nJ_Joa_B7m-E'
+    KEY = 'XXXXXXXXXXX'
     gmaps = googlemaps.Client(key=KEY)
 
     geojson = {
