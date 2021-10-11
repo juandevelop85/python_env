@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          {
+            "lat": 3.4422794,
+            "lng": -76.5394298
+          }
+        ]
+      },
+      "properties": {
+        "id": "1",
+        "direccion": "Cra 18 # 2 b - 19",
+        "tipo": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          {
+            "lat": 3.4422794,
+            "lng": -76.5394298
+          }
+        ]
+      },
+      "properties": {
+        "id": "2",
+        "direccion": "Carrera 18 No 2 b - 19",
+        "tipo": "100"
+      }
+    }
+  ]
+}
